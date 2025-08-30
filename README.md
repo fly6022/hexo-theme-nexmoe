@@ -13,7 +13,7 @@
 
 | 站点                                                      | 状态                                                                                          | 站点                                              | 状态                                                                                  |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [折影轻梦](https://nexmoe.com/)                           | ![折影轻梦](https://img.shields.io/website?url=https://nexmoe.com/)                           | [fly6022's Blog](https://blog.fly6022.fun)        | ![fly6022's Blog](https://img.shields.io/website?url=https://blog.fly6022.fun)        |
+| [折影轻梦](https://nexmoe.com/)                           | ![折影轻梦](https://img.shields.io/website?url=https://nexmoe.com/)                           | [fly6022's Blog](https://blog.kuri.ink)        | ![fly6022's Blog](https://img.shields.io/website?url=https://blog.kuri.ink/)        |
 | [官方示例](https://nexmoe-demo.netlify.app/) | ![官方示例](https://img.shields.io/website?url=https://nexmoe-demo.netlify.app/) | [LittleDeng](https://littlede.ng/)                     | ![LittleDeng](https://img.shields.io/website?url=https://littlede.ng/)                     |
 | [糖羽仙](https://www.tangyuxian.com/)                     | ![萌糖官方网站](https://img.shields.io/website?url=https://www.tangyuxian.com/)               | [繁华是客 Blog](https://nexmoe-demo.withkr.xyz)   | ![繁华是客 Blog](https://img.shields.io/website?url=https://nexmoe-demo.withkr.xyz)   |
 | [深海小涛](https://hexo.xtaolink.cn/)                     | ![深海小涛](https://img.shields.io/website?url=https://hexo.xtaolink.cn/)                     | [DreamCcc](https://note.bequick.run)              | ![DreamCcc](https://img.shields.io/website?url=https://note.bequick.run)              |
@@ -37,3 +37,4 @@
 ## 💴 Sponsor
 
 ![微信赞赏码](https://i.dawnlab.me/e528323511d872bc759128fc9a8c665f.md.png)
+
